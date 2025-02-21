@@ -1,0 +1,14 @@
+{
+  "name": "pawer_plant_class",
+  "version": "1.0.0",
+  "description": "implementation a Power Plant Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "srtrace",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
